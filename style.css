@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Heebo|Raleway|Oxygen|Abel|Julius Sans One');
+
+section#intro div,
+section#dataviz div,
+section#datacollection div,
+section#explainedvideo div {
+  min-height: inherit;
+  margin-bottom: 10px;
+}
+p {
+    margin: 10px 100px;
+    color: white;
+    font-family: Heebo;
+    font-weight: lighter;
+    font-size: 1;
+}
+  h1{
+  margin: 50px 100px 20px;
+  color: #F39C00;
+  font-family:Raleway;
+  font-weight: lighter;
+  font-size: 40pt;
+  text-align: center;
+}
+h3{
+  font-family: Raleway;
+  margin: 20px 100px;
+  color:#F39C00 ;
+  font-size: 20pt;
+}
+h4{
+  font-family: Raleway;
+  margin: 20px 100px;
+  color:#F39C00;
+  font-size: 15pt;
+}
+
+img {
+   margin: 10px 100px 10px 40px;
+   float:right;
+ }
+ img#box div{
+   margin: 10px 100px;
+ }
